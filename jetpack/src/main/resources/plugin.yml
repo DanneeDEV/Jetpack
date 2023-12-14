@@ -1,0 +1,4 @@
+name: jetpack
+main: org.nordcraft.Plugin
+version: 1.0
+api-version: 1.15
